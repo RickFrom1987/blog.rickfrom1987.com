@@ -20,7 +20,7 @@ As someone who strives to create a happy place to work for myself and fellow tea
 
 1. You are probably expendable. Layoffs and firings happen at large stable companies and small startups. Sometime unexpectedly.
 
-2. Be a swiss army knife at work. Don't be afraid to spend some time during your work hours to learn skills that transfer well to other industries or companies. If your boss doesn't like you learning more skills than it is not a place you will want to be in a few years anyways.
+2. Be a swiss army knife. Don't be afraid to spend some time during your work hours to learn universal skills that transfer well to other industries or companies. If your boss doesn't like you learning more skills than it is not a place you will want to be in a few years anyways.
 
 3. Don't take layoffs personally. Most company execs and CEO's are kind of assholes. They are there to make money and look out for their friends and themselves. Note I said, 'most', of course there are always exceptions.
 
