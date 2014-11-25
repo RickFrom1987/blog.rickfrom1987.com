@@ -16,9 +16,9 @@ Over my short software development career, 5 years to date, I have gone through 
 
 As someone who strives to create a happy place to work for myself and fellow team members it is quite disheartening. It is tough to wake up every morning motivated when people are getting the axe left and right. I've learned a few key things to help you the lowly employee guy/girl get the most out of being part of a "downsized" team. 
 
-#### 3 Things to do before starting your next job...
+#### 3 Things to know before starting your next job...
 
-1. You are probably expendable. Layoffs and firings happen at large stable companies and small startups. Sometime unexpectedly.
+1. Understand that you are probably expendable. Layoffs and firings happen at large stable companies and small startups. Sometime unexpectedly.
 
 2. Be a swiss army knife. Don't be afraid to spend some time during your work hours to learn universal skills that transfer well to other industries or companies. If your boss doesn't like you learning more skills than it is not a place you will want to be in a few years anyways.
 
