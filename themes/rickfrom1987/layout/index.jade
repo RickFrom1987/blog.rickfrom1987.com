@@ -1,0 +1,30 @@
+extends base
+
+block content
+  section.work
+    .container
+      .row
+        .col-md-12.col-sm-12
+          .single_box.style7
+            .icons_introimg.image-icon.box.pink
+              i.fa.fa-desktop
+            h3 Work
+
+        //- .gallery.col-md-12.col-sm-12
+        //-   include _partial/carousel
+        
+        .timeline.col-md-12.col-sm-12
+          include _partial/timeline_basic
+          
+  section.about
+    .container
+      .row
+        include _partial/hard
+
+    .container
+      .row
+        include _partial/soft
+  
+  section.contact.blue
+    .container-fluid
+      include _partial/contact

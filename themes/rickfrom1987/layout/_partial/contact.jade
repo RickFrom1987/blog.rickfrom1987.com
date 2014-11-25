@@ -1,0 +1,30 @@
+.row
+  .col-md-12.col-sm-12
+    .single_box.style7
+      .icons_introimg.image-icon.box
+        i.fa.fa-paper-plane
+      h3 Contact Me
+      p.intro-text
+        | I usually will get back to you within 24 hours!
+
+.row
+  .col-lg-8.col-lg-offset-2
+    form#contact-form
+      .form-group
+        label.control-label(for='contact-name') Name
+        .controls
+          input#contact-name.form-control.requiredField(name='contact', placeholder='Name', data-new-placeholder='Your name', type='text', data-error-empty='Please enter your name')
+          i.fa.fa-user
+      .form-group
+        label.control-label(for='contact-mail') Email
+        .controls
+          input#contact-mail.form-control.requiredField(name='email', placeholder='Email', data-new-placeholder='Your email', type='email', data-error-empty='Please enter your email', data-error-invalid='Invalid email address')
+          i.fa.fa-envelope
+      .form-group
+        label.control-label(for='contact-message') Message
+        .controls
+          textarea#contact-message.form-control.requiredField(name='comments', placeholder='Message', data-new-placeholder='Your message', rows='6', data-error-empty='Please enter your message')
+          i.fa.fa-comment
+      .row
+        .form-group.col-xs-12
+          button#contact-btn.btn.btn-success.btn-lg(type='submit') Send Message

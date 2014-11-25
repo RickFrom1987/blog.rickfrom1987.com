@@ -1,0 +1,16 @@
+# config
+cover: //
+
+logo: /img/avatar.jpg
+
+bio: 'Rick likes to software develop. Rick likes to write. Rick likes dance music. Rick likes to travel and take photos. Also he plays soccer all the time.'
+
+fancybox: true
+
+google_analytics: true
+
+# Content
+excerpt_link: Read More
+
+# Miscellaneous
+rss:
