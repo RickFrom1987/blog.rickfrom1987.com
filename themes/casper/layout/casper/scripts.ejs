@@ -1,8 +1,11 @@
+<!-- build:js public/js/site.js -->
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
 <script type="text/javascript" src="<%- config.root%>js/jquery.fitvids.js"></script>
 <script type="text/javascript" src="<%- config.root%>js/jquery.lazyload.js"></script>
+<script src="<%- config.root %>js/jquery.fancybox.js"></script>
 <script type="text/javascript" src="<%- config.root%>js/index.js"></script>
+<!-- endbuild -->
 <% if (config.disqus_shortname){ %>
 <script type="text/javascript">
     var disqus_shortname = '<%= config.disqus_shortname %>';
@@ -16,25 +19,3 @@
     }());
 </script>
 <% } %>
-
-<% if (theme.fancybox){ %>
-<link rel="stylesheet" href="<%- config.root %>css/jquery.fancybox.css" media="screen" type="text/css">
-<script src="<%- config.root %>js/jquery.fancybox.js"></script>
-<script type="text/javascript">
-    (function($){
-
-        var wrapAll = function(q) {
-            $(q).each( function() {
-                var $img = $(this),
-                        href = $img.data('original');
-                $img.wrap('<a rel="fancybox" href="' + href + '" title="' + $img.attr('alt') + '" class="link"></a>');
-            });
-        };
-
-        wrapAll('.post-content img');
-        wrapAll('.post-excerpt img');
-        $('[rel="fancybox"]').fancybox();
-    })(jQuery);
-</script>
-<% } %>
-

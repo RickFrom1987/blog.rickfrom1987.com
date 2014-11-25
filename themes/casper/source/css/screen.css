@@ -446,20 +446,20 @@ margin on the iframe, cause it breaks stuff. */
 /* Yo-logo. Yolo-go. Upload one in ghost/settings/ */
 .blog-logo {
   display: block;
-  width: 64px;
-  height: 64px;
+  width: 128px;
+  height: 128px;
   margin:  0 auto;
 }
 
 .circle {
-  border-radius: 32px;
-  -webkit-border-radius: 32px;
-  -moz-border-radius: 32px;
+  border-radius: 64px;
+  -webkit-border-radius: 64px;
+  -moz-border-radius: 64px;
   background: url(/img/avatar.jpg) no-repeat center center;
-  webkit-background-size: 64px 64px;
-  moz-background-size: 64px 64px;
-  o-background-size: 64px 64px;
-  background-size: 64px 64px;
+  webkit-background-size: 128px 128px;
+  moz-background-size: 128px 128px;
+  o-background-size: 128px 128px;
+  background-size: 128px 128px;
   box-shadow: 0 0 8px rgba(0, 0, 0, .8);
   -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
   -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);

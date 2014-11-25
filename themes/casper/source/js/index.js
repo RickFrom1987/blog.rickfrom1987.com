@@ -16,6 +16,18 @@
           }
         });
 
+        var wrapAll = function(q) {
+            $(q).each( function() {
+                var $img = $(this),
+                        href = $img.data('original');
+                $img.wrap('<a rel="fancybox" href="' + href + '" title="' + $img.attr('alt') + '" class="link"></a>');
+            });
+        };
+
+        wrapAll('.post-content img');
+        wrapAll('.post-excerpt img');
+        
+        $('[rel="fancybox"]').fancybox();
         $(".post-content").fitVids();
 
         $("img").lazyload({
