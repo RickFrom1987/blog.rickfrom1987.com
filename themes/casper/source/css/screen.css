@@ -840,14 +840,15 @@ pre .chunk {
 
 /* The main wrapper for our pagination links */
 .pagination {
-    position: relative;
-    width: 80%;
-    max-width: 700px;
-    margin: 4rem auto;
-    font-family: 'Open Sans', sans-serif;
-    font-size: 1.3rem;
-    color: #9EABB3;
-    text-align: center;
+  display: block;
+  position: relative;
+  width: 80%;
+  max-width: 700px;
+  margin: 4rem auto;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.3rem;
+  color: #9EABB3;
+  text-align: center;
 }
 
 .pagination a {
