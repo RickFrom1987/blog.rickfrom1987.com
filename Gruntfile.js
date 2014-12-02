@@ -18,9 +18,7 @@ module.exports = function (grunt) {
     // Project settings
     pkg: grunt.file.readJSON('package.json'),
     yeoman: {
-      // configurable paths
-      client: require('./bower.json').appPath || 'client',
-      dist: 'dist'
+      dist: 'public'
     },
 
     // Add vendor prefixed styles
@@ -38,20 +36,10 @@ module.exports = function (grunt) {
       }
     },
 
-    // Debugging with node inspector
-    'node-inspector': {
-      custom: {
-        options: {
-          'web-host': 'localhost'
-        }
-      }
-    },
-
     // Automatically inject Bower components into the app
     wiredep: {
       target: {
         src: '<%= yeoman.client %>/index.html',
-        ignorePath: '<%= yeoman.client %>/',
         exclude: [/bootstrap-sass-official/, /bootstrap.js/, '/json3/', '/es5-shim/', /bootstrap.css/, /font-awesome.css/ ]
       }
     },

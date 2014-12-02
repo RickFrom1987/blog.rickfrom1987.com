@@ -1,9 +1,5 @@
-[RickFrom1987.com](http://rickfrom1987.com/) — Rick Chen, Frontend Dude.
+[blog.rickfrom1987.com](blog.rickfrom1987.com/) — My Blog, Yo!
 ==================================================
-
-My personal site run on Hexo!
-
-1. [Hexo Docs](http://hexo.io/docs/)
 
 TODO:
 ==================================================

@@ -10,7 +10,12 @@
     "hexo-renderer-stylus": "*"
   },
   "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-asset-injector": "^0.1.0",
+    "grunt-usemin": "^2.6.2",
     "hexo-deployer-s3": "0.0.2",
-    "hexo-renderer-jade": "^0.1.0"
+    "hexo-renderer-jade": "^0.1.0",
+    "jit-grunt": "^0.9.0",
+    "time-grunt": "^1.0.0"
   }
 }
