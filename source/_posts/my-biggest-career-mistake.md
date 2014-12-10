@@ -14,7 +14,7 @@ I am very hesitant to make this post for many reasons, but I made this costly mi
 
 The biggest mistake I have ever made was taking a job for VMware. If you don't know VMware... It's this massive tech company based in Palo Alto. They make some complicated shit. I worked there for almost two years. Wow. Before you read any further, let me say this:
 
-** Disclaimer: my mistake was my own fault and it has nothing to do with VMware or anyone there.
+**Disclaimer: my mistake was my own fault and it has nothing to do with VMware or anyone there.**
 
 1. **My team was awesome.**
 The team that I worked with was awesome. I legit enjoyed being around everyone I worked with, by the end I'm not sure they felt the same way : )
