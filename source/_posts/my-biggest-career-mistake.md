@@ -25,7 +25,7 @@ VMware was totally flexible in my schedule and compensation. I also got to play 
 
 #### So why was it my biggest mistake?
 
-1. **Working for someone else and not focusing on building my brand and raising value in myself (this is where real worth lies).** 
+1. **Working for someone else and not focusing on building my brand and raising value in myself (this is where I felt the most self value and worth).** 
 For the sake of being transparent my total salary + stocks etc. was roughly 135K per year. To a 24 year old, first generation asian american from an immigrant family, this type of money was earth shattering. There was no way in hell I could turn that down. This is exactly how those in power and the wealthy want you to think. Work hard for us and you will get paid a high salary to buy things. It's complete insanity. Think about it... even if your salary was magically 250K a year well within the top 5% you probably would still try to work at minimum 5 years. That's 5 years doing something you aren't 100% vested in. Also please don't lie to yourself, like I did. Most jobs that pay high salaries aren't things that people grow up wanting to do. I wish someone grabbed me by the neck and gave me a wake up call.
 
 2. **Opportunity cost.**
