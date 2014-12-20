@@ -148,9 +148,9 @@ h6 {
 }
 
 a {
-  color: rgba(0,0,0,0.2);
-  font-weight: 900;
-  text-shadow: none;
+  color: #50585D;
+  text-shadow: 1px 1px 1px rgba(255,255,255, 0.2);
+  font-family: Montserrat, sans-serif;
   text-decoration: none;
   -o-transition:.5s;
   -ms-transition:.5s;
@@ -158,10 +158,10 @@ a {
   -webkit-transition:.5s;
   /* ...and now for the proper property */
   transition:.5s;
-
 }
 
 a:hover {
+  text-decoration: none;
   color: rgba(0,0,0,0.8);
 }
 
@@ -602,6 +602,18 @@ margin on the iframe, cause it breaks stuff. */
     max-width: 100%;
     margin: 0 auto;
     height: auto;
+}
+
+.post-content a {
+  font-size: 1em;
+  padding: 8px;
+  background: rgba(0,0,0, 0.1);
+  border-radius: 4px;
+  color: rgba(0,0,0,0.5);
+}
+
+.post-content a:hover {
+  color: rgba(0,0,0, 0.8);
 }
 
 /* The author credit area after the post */
