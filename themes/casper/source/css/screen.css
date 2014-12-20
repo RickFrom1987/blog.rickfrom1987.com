@@ -1084,8 +1084,8 @@ pre .chunk {
 
 @media only screen and (max-width: 500px) {
 
-    .blog-logo img {
-        max-height: 80px;
+    .blog-logo {
+        display: none;
     }
 
     .inner,
