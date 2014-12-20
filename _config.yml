@@ -9,7 +9,7 @@ description: ""
 author: Rick Chen
 email: rick@rickfrom1987.com
 language:
-
+version: "0.0.1"
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://blog.rickfrom1987.com
