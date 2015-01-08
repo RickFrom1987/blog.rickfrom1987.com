@@ -9,7 +9,7 @@ description: ""
 author: Rick Chen
 email: rick@rickfrom1987.com
 language:
-version: "0.0.2"
+version: "0.0.3"
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://blog.rickfrom1987.com
@@ -56,7 +56,7 @@ tag: 2
 ## Hexo uses Connect as a server
 ## You can customize the logger format as defined in
 ## http://www.senchalabs.org/connect/logger.html
-port: 8000 
+port: 8080 
 server_ip: 127.0.0.1
 logger: false
 logger_format: dev
