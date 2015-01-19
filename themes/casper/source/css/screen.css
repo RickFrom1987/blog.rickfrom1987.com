@@ -111,7 +111,6 @@ body {
 h1, h2, h3,
 h4, h5, h6 {
     text-rendering: optimizeLegibility;
-    line-height: 1;
     margin: 0;
     font-weight: 700;
     font-family: 'Open Sans', sans-serif;
@@ -611,9 +610,9 @@ margin on the iframe, cause it breaks stuff. */
 }
 
 .post-content a {
+  text-decoration: underline;
   font-size: 1em;
-  padding: 8px;
-  background: rgba(0,0,0, 0.1);
+  padding: 4px;
   border-radius: 4px;
   color: rgba(0,0,0,0.5);
 }
