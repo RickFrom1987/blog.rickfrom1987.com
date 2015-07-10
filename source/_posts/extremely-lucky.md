@@ -1,4 +1,4 @@
-title: Please Remember You are Extremely Lucky.
+title: Note To Self - You Are Extremely Lucky.
 date: 2015/07/04 20:46:25
 categories:
 - Life
