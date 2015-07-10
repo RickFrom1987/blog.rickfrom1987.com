@@ -1,4 +1,4 @@
-title: Reminder, You are extremely lucky.
+title: Please Remember You are Extremely Lucky.
 date: 2015/07/04 20:46:25
 categories:
 - Life
