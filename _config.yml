@@ -4,12 +4,12 @@
 
 # Site
 title: "My Blog, Yo!"
-subtitle: "My thoughts on my passions, software, finance, and f****** life in general."
+subtitle: "My thoughts on my passions, software, finance, and life in general."
 description: ""
 author: Rick Chen
 email: rick@rickfrom1987.com
 language:
-version: "0.0.6"
+version: "0.0.7"
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 cdn_url: http://d1mmb8hb1hzs35.cloudfront.net
