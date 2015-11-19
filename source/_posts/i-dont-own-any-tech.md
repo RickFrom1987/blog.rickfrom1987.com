@@ -3,7 +3,7 @@ date: 2015/09/23 20:46:25
 categories:
 - Life
 tags:
-- Motivation
+- Random Thoughts
 ---
 I recently shattered my new iPhone and started using an old iPhone 4. I was trying to use some apps likes Uber and Google Maps and they both were quite buggy and crashed quite a bit. It makes sense as devices move on, apps and app developers need to as well and can't support every device in perpituity. I just stared at my iPhone 4 for a while and realized that basically I had just rented this device from Apple for about a year or so because none of my favorite apps were reliable enough for daily use. Sure I can call or text friends / family, but who does that anymore? Then my brain went into future mode and thought: damn I am going to be upgrading devices and apps for the rest of my life and I will never truly own a phone anymore, like my first trusty Nokia. There are both pros and cons, because new devices come out, apps can use newer and better hardware for awesome features. 
 
